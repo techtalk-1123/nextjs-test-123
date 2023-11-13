@@ -1,9 +1,5 @@
 name: Build & deploy
 
-env:
-  VERCEL_ORG_ID: alfonzjanfrithz
-  VERCEL_PROJECT_ID: nextjs-test-123
-
 on:
   push:
     branches:
