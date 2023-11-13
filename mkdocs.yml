@@ -1,0 +1,8 @@
+site_name: "nextjs-test"
+site_description: "Test asdasd"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
